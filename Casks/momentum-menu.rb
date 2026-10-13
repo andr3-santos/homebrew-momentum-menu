@@ -1,6 +1,6 @@
 cask "momentum-menu" do
-  version "1.0.1"
-  sha256 "8c20f233f199567df023840bc84b46e89715a2b54220bc436f7f70eb28729737"
+  version "1.0.2"
+  sha256 "0b1a01d9cbd88f78c9111d4b077b594cb777f62430ac92c1016d9a6b410a06c7"
 
   url "https://github.com/andr3-santos/momentum-menu/releases/download/v#{version}/MomentumMenu-#{version}.zip"
   name "Momentum Menu"
