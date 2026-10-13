@@ -7,7 +7,7 @@ cask "momentum-menu" do
   desc "Menu bar control for Sennheiser MOMENTUM 4 headphones"
   homepage "https://github.com/andr3-santos/momentum-menu"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "MomentumMenu.app"
 
